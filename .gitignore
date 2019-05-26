@@ -1,3 +1,9 @@
+# Examples folder since it can't be published
+*Examples/
+
+# VS code folder
+.vscode/
+
 # Prerequisites
 *.d
 
